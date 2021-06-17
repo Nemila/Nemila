@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nemila
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning godot
+- 🌱 I’m currently learning godot engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
