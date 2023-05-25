@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs, Supabase and Prisma**
 
-- 👨‍💻 All of my projects are available at [https://lamte.vercel.app/](https://lamte.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://siamin.vercel.app/](https://siamin.vercel.app/)
 
 - 💬 Ask me about **react**
 
