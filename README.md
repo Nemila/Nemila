@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lamine</h1>
 <h3 align="center">A passionate fullstack developer from Mali</h3>
 
-- 🔭 I’m currently working on [PokeTv](https://poketv.vercel.app/)
+- 🔭 I’m currently working on [PokeTv](https://catoonhub.com/)
 
-- 🌱 I’m currently learning **NextJs, Supabase and Prisma**
-
-- 👨‍💻 All of my projects are available at [https://siamin.vercel.app/](https://siamin.vercel.app/)
-
-- 💬 Ask me about **react**
+- 💬 Ask me about **NextJS**
 
 - 📫 How to reach me **pridila.2006@gmail.com**
 
