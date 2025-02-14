@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lamine</h1>
 <h3 align="center">A passionate fullstack developer from Mali</h3>
 
-- 🔭 I’m currently working on [PokeTv](https://catoonhub.com/)
+- 🔭 I’m currently working on [CartoonHub](https://catoonhub.com/)
 
 - 💬 Ask me about **NextJS**
 
